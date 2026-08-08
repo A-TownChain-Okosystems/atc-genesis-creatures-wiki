@@ -1,9 +1,9 @@
-# atc-genesis-creatures-wiki
+# atc-genesis-creatures Wiki
 
 📖 atc-genesis-creatures Wiki — Genesis Engine Creatures — Spawner, DNA, Shivamon
 
-> **Organisation:** A-TownChain-Okosystems  
-> **Erstellt:** 2026-08-08  
+> **Organisation:** A-TownChain-Okosystems
+> **Erstellt:** 2026-08-08
 > **Agent:** Aurora (MasterBrain · Base44)
 
 ## Inhalte
